@@ -190,9 +190,6 @@ a.external:hover {
   font-size: 40px;
   color: #fff;
   margin-bottom: 20px;
-  text-shadow: 0 0 80px rgba(255,255,255,0.5);
-  letter-spacing: 0.15em;
-  text-shadow: rgba(255,255,255,0.5) 0 0 15px, rgba(255,255,255,0.5) 0 0 10px;
 }
 .index-wrapper .info-card a {
   margin: 0 15px;
@@ -464,22 +461,6 @@ a.external:hover {
   -moz-background-size: 20%;
   background-size: 20%;
   background-position: 50% 50%;
-  background: #38658c;
-  background: -webkit-radial-gradient(top left, #5d3571, #38658c);
-  background: -moz-radial-gradient(top left, #5d3571, #38658c);
-  background: -o-radial-gradient(top left, #5d3571, #38658c);
-  background: -ms-radial-gradient(top left, #5d3571, #38658c);
-  background: radial-gradient(to bottom right, #5d3571, #38658c);
-}
-#disqus_container {
-  font-size: 12px;
-}
-#disqus_container .share-con {
-  float: right;
-  margin-bottom: 20px;
-}
-#disqus_container a.comment {
-  font-size: 14px;
 }
 .prettyprint {
   background: #f7f3f7;
